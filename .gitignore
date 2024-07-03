@@ -34,3 +34,5 @@
 # ooth
 /.ccls-cache
 /main
+/.replit
+/replit.nix
