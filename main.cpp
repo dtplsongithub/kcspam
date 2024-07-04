@@ -9,7 +9,7 @@ bool fileExists(string name){
 
 int main(int argc, char *argv[]) {
   if (argc == 1) {
-    cout << "No arguments were given, reading .\input.txt"
+    cout << "No arguments were given, reading .\\input.txt";
   } else if (argc == 3) {
     
   } else cout << "Invalid number of arguments!";
